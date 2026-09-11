@@ -42,4 +42,8 @@ An interactive executive analytics web application built to evaluate unit econom
 * **BI & Data Modeling**: Power BI, Excel / Power Query
 * **Frontend Web App Deployment**: Lovable, React, Tailwind CSS
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/330fa808-98d0-4a60-a8e3-3ee8ea54292f" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7e124d49-edf2-4082-9b42-48b523bb1906" />
+
 
